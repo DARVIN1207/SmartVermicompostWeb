@@ -9,8 +9,6 @@ This web app generates a PIN for the user and simulates sensor readings for the 
 
 It also displays notifications if any sensor readings go out of safe range.
 
-## How to Run Locally
 
-1. Create virtual environment:
 
 
